@@ -1,0 +1,21 @@
+﻿ID,Age,Education,Marital_Status,Occupation,Annual_Income
+1,39,bachelors,never married,professional,high
+2,50,doctorate,married,professional,mid
+3,18,high school,never married,agriculture,low
+4,30,bachelors,married,professional,mid
+5,37,high school,married,agriculture,mid
+6,23,high school,never married,agriculture,low
+7,52,high school,divorced,transport,mid
+8,40,doctorate,married,professional,high
+9,46,bachelors,divorced,transport,mid
+10,33,high school,married,transport,mid
+11,36,high school,never married,transport,mid
+12,45,doctorate,married,professional,mid
+13,23,bachelors,never married,agriculture,low
+14,25,high school,married,professional,high
+15,35,bachelors,married,agriculture,mid
+16,29,bachelors,never married,agriculture,mid
+17,44,doctorate,divorced,transport,mid
+18,37,bachelors,married,professional,mid
+19,39,high school,divorced,professional,high
+20,25,bachelors,married,transport,high
